@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('path');
+// const fs = require('fs');
+// const path = require('path');
 module.exports = {
     HOST: "database-1.caaq62uigts9.ap-southeast-1.rds.amazonaws.com",
     USER: "postgres",
