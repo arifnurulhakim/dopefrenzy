@@ -1,0 +1,4 @@
+node_modules
+app/config/db.config_elephansql.js
+app/config/db.config_heroku.js
+*.sql
